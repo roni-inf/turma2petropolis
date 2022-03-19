@@ -48,8 +48,7 @@ programa
 		}
 		escreva("\ndeseja continuar? \n R: Sim - R: Nao\n")
 		leia(resposta)
-	}
-		
+	}	
 		
 	}
 }
