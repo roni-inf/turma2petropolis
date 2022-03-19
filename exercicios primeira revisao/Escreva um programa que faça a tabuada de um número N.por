@@ -1,5 +1,6 @@
 programa
 {
+	
 	funcao inicio()
 	{
 		//1-Escreva um programa que faça a tabuada de um número n.
@@ -17,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 10; 
+ * @POSICAO-CURSOR = 12; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
