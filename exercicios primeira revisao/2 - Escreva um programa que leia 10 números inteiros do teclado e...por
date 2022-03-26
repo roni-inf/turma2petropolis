@@ -2,7 +2,7 @@ programa
 {
 	
 	funcao inicio()
-	{	
+	{	
 	/*   Escreva um programa que leia 10 números inteiros do 
 		teclado e armazena no vetor. Após isso, imprima os 
 		10 inteiros em ordem inversa ao que foi digitado.    */
@@ -23,9 +23,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 397; 
- * @PONTOS-DE-PARADA = 17;
- * @SIMBOLOS-INSPECIONADOS = {numeros, 10, 10, 7}-{i, 12, 15, 1}-{i, 16, 15, 1};
+ * @POSICAO-CURSOR = 363; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = {numeros, 10, 10, 7}-{i, 16, 15, 1}-{i, 16, 15, 1};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
